@@ -1,0 +1,15 @@
+<?xml version='1.0' ?>
+<userdetails>
+     <user id="1">
+   <firstname>ganesh</firstname>
+   <lastname>v</lastname>
+   </user >
+   <user id="2">
+   <firstname>ganesh</firstname>
+   <lastname>v</lastname>
+   </user >
+   <user id="3">
+   <firstname>ganesh</firstname>
+   <lastname>v</lastname>
+   </user>
+</userdetails>
